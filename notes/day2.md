@@ -5,4 +5,4 @@ embeddings
 semantic search
 prompt engineering notes
 
-// completed.
+
